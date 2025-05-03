@@ -25,7 +25,7 @@ This is a static **Spotify clone website** built using only **HTML** and **CSS**
 
 ## 📸 Demo
 
-[🔗 Live Demo](spotify-clone-eta-neon.vercel.app)
+[🔗 Live Demo](https://spotify-clone-eta-neon.vercel.app)
 
 ---
 
